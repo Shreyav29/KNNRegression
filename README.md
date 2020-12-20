@@ -1,5 +1,6 @@
 # Building K-Nearest Neighbour algorithm from scratch
 
+## Find a link to my blog post [here.](https://medium.com/where-quant-meets-data-science/building-k-nearest-neighbour-algorithm-from-scratch-bd0c5df13192)
 ## Objective
 In this project we will be solving KNN Regression problem from scratch. We will be implementing the KNN problem in the naive method using a for loop and also in a vectorised approach using numpy broadcasting. We will also plot the root mean squared error for various K values and chose the optimal number of nearest neighbours.
 
@@ -31,7 +32,7 @@ This naive approach would work for a small dataset but might face issues with la
 Here we use the vectorized implementation of KNN to get the same solution as the naive implementation. 
 
 ### Step 5 : Selecting the right K value
-![](K vs RMSE.png)
+!(K vs RMSE.png)
 We find the optimal K by extracting the K value for which the RMSE is the lowest 
 
 
