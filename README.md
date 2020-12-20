@@ -1,4 +1,4 @@
-# KNNRegression
+# Building K-Nearest Neighbour algorithm from scratch
 
 ## Objective
 In this project we will be solving KNN Regression problem from scratch. We will be implementing the KNN problem in the naive method using a for loop and also in a vectorised approach using numpy broadcasting. We will also plot the root mean squared error for various K values and chose the optimal number of nearest neighbours.
