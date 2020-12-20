@@ -32,7 +32,7 @@ This naive approach would work for a small dataset but might face issues with la
 Here we use the vectorized implementation of KNN to get the same solution as the naive implementation. 
 
 ### Step 5 : Selecting the right K value
-![](/Images/K vs RMSE.png)
+![](/Images/RMSE.png)
 
 We find the optimal K by extracting the K value for which the RMSE is the lowest 
 
