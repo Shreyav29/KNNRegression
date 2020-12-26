@@ -35,6 +35,3 @@ Here we use the vectorized implementation of KNN to get the same solution as the
 ![](/Images/RMSE.png)
 
 We find the optimal K by extracting the K value for which the RMSE is the lowest. Turns out the optimal RMSE is around 0.82 when K is around 10–12.
-
-
-
