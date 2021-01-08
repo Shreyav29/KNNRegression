@@ -7,6 +7,7 @@ In this project we will be solving KNN Regression problem from scratch. We will 
 ## What is the K-Nearest Neighbour algorithm ?
 KNN is a non-parametric supervised machine learning model which stores all the data available and predicts new cases based on a chosen similarity metric. The idea to predict the value of the new case based on the K nearest values available w.r.t to the similarity metric. It can be used for classification and regression problems.
 
+
 ## What are parametric and non parametric methods ?
 Any machine learning model can be explained by the learning function it uses. This function maps from the X (independent) variables to the Y(dependent) variables. In a parametric model, we assume a defined learning function and try to build a model by fitting the training data to the learning function to find the model coefficients. Increase in the data would not alter the learning function of this model. Examples of parametric methods are logistic regression and simple neural networks.
 Where as, in a non parametric model, we do not presume any fixed form of learning function and are free to learn any mapping function based on the training data. The most common examples are KNN and SVM.
